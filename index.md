@@ -57,3 +57,10 @@ layout: default
 *   讨厌物理换卡、怕丢SIM卡。
 *   想出发前就搞定网络，飞机一落地秒连。
 *   双卡用户（保留原号接短信，摩洛哥号上网打电话
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Morocco eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/morocco-data-plans)
